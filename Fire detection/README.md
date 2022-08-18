@@ -1,0 +1,1 @@
+This is a project is made for the fire detection using camera itself.
