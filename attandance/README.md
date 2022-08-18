@@ -1,0 +1,1 @@
+This is project where you train an image once and next time the face comes in it will mark the attandance.
